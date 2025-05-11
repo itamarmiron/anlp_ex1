@@ -1,0 +1,13 @@
+epoch_num: 5, lr: 0.002, batch_size: 32, eval_acc: 0.6900
+epoch_num: 5, lr: 0.0002, batch_size: 32, eval_acc: 0.7300
+epoch_num: 5, lr: 0.002, batch_size: 32, eval_acc: 0.6900
+epoch_num: 5, lr: 0.0002, batch_size: 32, eval_acc: 0.7100
+epoch_num: 5, lr: 2e-05, batch_size: 32, eval_acc: 0.6900
+epoch_num: 5, lr: 0.0001, batch_size: 64, eval_acc: 0.7100
+epoch_num: 5, lr: 0.0001, batch_size: 64, eval_acc: 0.7000
+epoch_num: 5, lr: 1e-05, batch_size: 64, eval_acc: 0.5600
+epoch_num: 5, lr: 0.0001, batch_size: 64, eval_acc: 0.7100
+epoch_num: 5, lr: 0.0002, batch_size: 64, eval_acc: 0.7100
+epoch_num: 5, lr: 0.0002, batch_size: 32, eval_acc: 0.6900
+epoch_num: 5, lr: 0.0001, batch_size: 64, eval_acc: 0.6900
+epoch_num: 5, lr: 0.00015, batch_size: 64, eval_acc: 0.7400
